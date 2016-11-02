@@ -1,8 +1,6 @@
 # codepath-iOS_ideas 
------------------
 
 ## App Ideas 
------------------
 
 ### Voice Based Note Sharing
 
@@ -30,9 +28,9 @@ The key trick here is to be able to do this replacement in the context of the so
 
 ### Screentime app
 
-I would like to try to recreate
+I'm interested in re-creating this app:
 
 https://itunes.apple.com/us/app/screen-time-parental-control/id1055315077
 
-This is not a new brilliant app idea to sell, but something that I know there is a demand for. 
+This is not a new brilliant app idea to sell, but something that I know that parents are purchasing to install.  Something solid, just for thoughts.
 
