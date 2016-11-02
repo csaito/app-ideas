@@ -26,3 +26,4 @@ This application makes it easy to associate a certain entity with a certain lang
 
 The key trick here is to be able to do this replacement in the context of the social app.  There are always web sites to translate, but it is often too much work to do copy-and-paste and application swap in mobile just to get the right version of "hello".
 
+Note, for linking one app to another, I believe the only option available is creating a custom URL schema.  This app won't work unless we can ask a social app, say, FB, to recognize a newly created custom schema for our Plugin and give us control.
