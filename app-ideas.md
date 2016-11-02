@@ -26,11 +26,3 @@ This application makes it easy to associate a certain entity with a certain lang
 
 The key trick here is to be able to do this replacement in the context of the social app.  There are always web sites to translate, but it is often too much work to do copy-and-paste and application swap in mobile just to get the right version of "hello".
 
-### Screentime app
-
-I'm interested in re-creating this app:
-
-https://itunes.apple.com/us/app/screen-time-parental-control/id1055315077
-
-This is not a new brilliant app idea to sell, but something that I know that parents are purchasing to install.  Something solid, just for thoughts.
-
